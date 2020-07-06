@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Current Weather</string>
+    <string name="city">City</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="city_">City :</string>
+    <string name="weather_report">Weather Report</string>
+    <string name="humidity">Humidity :</string>
+</resources>
