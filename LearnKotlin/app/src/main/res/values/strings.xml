@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Learn Kotlin</string>
+    <string name="learn_kotlin">Learn\nKotlin</string>
+    <string name="learning_kotlin_made_easy">Learning Kotlin Made Easy!</string>
+    <string name="loading">Loading…</string>
+    <string name="developer">Developed by LordSam.co</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="login">Login</string>
+    <string name="new_user_create_account">New user? Create account.</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+</resources>
